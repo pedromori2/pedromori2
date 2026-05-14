@@ -66,5 +66,3 @@ Desenvolvi e lancei do zero. Permite gerenciar listas de presentes, confirmar pr
 [![Celebra](https://img.shields.io/badge/Celebra-celebrahub.com-8b5cf6?style=flat)](https://celebrahub.com)
 
 <br>
-
-<h3 align="left">🔥 My Stats:</h3>
