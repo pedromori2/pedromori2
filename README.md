@@ -28,7 +28,7 @@ Desenvolvi e lancei do zero. Permite gerenciar listas de presentes, confirmar pr
 - **Backend:** Java 21 · Spring Boot · Spring Security + JWT · PostgreSQL · Flyway
 - **Frontend:** Next.js 15 · TypeScript · CSS Modules
 - **Infra & observabilidade:** Grafana (OTLP) · Sentry · Logtail · Spring Actuator
-- **Integrações:** Asaas · Twilio · Resend · Anthropic API
+- **Integrações:** Asaas · Resend · Anthropic API
 
 ---
 
